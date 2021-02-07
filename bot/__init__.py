@@ -77,19 +77,19 @@ REQD_PERMISSIONS = "https://t.me/SpEcHlDe/857"
 GIT_REPO_LINK = "https://github.com/SpEcHiDe/DeleteMessagesRoBot"
 """ strings to be used in the bot """
 START_MESSAGE = get_config("START_MESSAGE", (
-    "𝗛𝗲𝘆 𝗗𝗲𝗮𝗿!🙋.
+    "𝗛𝗲𝘆 𝗗𝗲𝗮𝗿!🙋"
 
-🔖 I am Telegram All Message Deleter Bot! I can Delete Your Channel, group, supergroup all Messages in few Seconds 🤩.
+"🔖 I am Telegram All Message Deleter Bot! I can Delete Your Channel, group, supergroup all Messages in few Seconds 🤩."
 
-⭕𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲 𝗠𝗲?? follow These Steps 👇
+"⭕𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲 𝗠𝗲?? follow These Steps 👇"
 
-➪ Add me to the channel/supergroup as admin (with at least delete messages, invite users and add admins permissions)
+"➪ Add me to the channel/supergroup as admin (with at least delete messages, invite users and add admins permissions)"
 
-➪ Send /delall if you want all the messages to be deleted
+"➪ Send /delall if you want all the messages to be deleted"
 
-➪ Send /delfrom & /delto before using /delsel in reply to a message if you want to delete that and all subsequent messages. 
+"➪ Send /delfrom & /delto before using /delsel in reply to a message if you want to delete that and all subsequent messages." 
 
- For More Help:👉 👥@DhashamoolamDhamu👥"
+ "For More Help:👉 👥@DhashamoolamDhamu👥"
 ))
 START_COMMAND = get_config("START_COMMAND", "start")
 DEL_ALL_COMMAND = get_config("DEL_ALL_COMMAND", "delall")
